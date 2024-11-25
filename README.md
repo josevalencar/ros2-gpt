@@ -1,5 +1,7 @@
 # Overview
 
+https://github.com/user-attachments/assets/01622c9d-a771-4171-bd26-0762ffe20916
+
 This simple project integrates OpenAI's GPT-4 language model with ROS 2 to create an interactive, natural language interface for robot navigation. Users can input commands in plain English, and the assistant will interpret them to navigate the robot to the desired location.
 
 # How it works
